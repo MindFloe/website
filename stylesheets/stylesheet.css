@@ -451,8 +451,10 @@ header {
   padding-top: 40px;
   padding-bottom: 40px;
   font-family: 'Architects Daughter', 'Helvetica Neue', Helvetica, Arial, serif;
-  background: #2e7bcf url(../images/header-bg.jpg) 0 0 repeat-x;
-  border-bottom: solid 1px #275da1;
+  background: #2e7bcf url(../images/2015-04-08_00003.jpg) 0 0 repeat-x;
+  background-attachment: fixed;
+  background-position-y: -320px;
+  background-size: cover;
 }
 
 header h1 {
@@ -769,6 +771,11 @@ footer a:hover {
 .clearfix {display: inline-block;}
 * html .clearfix {height: 1%;}
 .clearfix {display: block;}
+
+.header-logo
+{
+  width: 400px;
+}
 
 /* #Media Queries
 ================================================== */
