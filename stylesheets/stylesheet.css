@@ -7,6 +7,7 @@
  */
 
 
+@import url(http://fonts.googleapis.com/css?family=Open+Sans:400,700,300,400italic);
 @import url(http://fonts.googleapis.com/css?family=Arvo);
 
 
@@ -526,8 +527,8 @@ a.button {
   width: 134px;
   height: 58px;
   padding-top: 22px;
-  padding-left: 68px;
-  font-family: 'Architects Daughter', 'Helvetica Neue', Helvetica, Arial, serif;
+  padding-left: 22px;
+  font-family: 'Arvo', 'Helvetica Neue', Helvetica, Arial, serif;
   font-size: 23px;
   line-height: 1.2;
   color: #fff;
@@ -544,11 +545,14 @@ header a.button {
 }
 aside a.button {
   display: block;
-  width: 138px;
-  padding-left: 64px;
+  /* width: 138px; */
+  /* padding: 30px 30px; */
   margin-bottom: 20px;
   font-size: 21px;
-  background: transparent url(../images/download-button.png) 0 0 no-repeat;
+  /* background: transparent url(../images/download-button.png) 0 0 no-repeat; */
+  background-color: #3FA5C1;
+  border-radius: 7px;
+  font-family: 'Arvo', serif;
 }
 
 code, pre {
