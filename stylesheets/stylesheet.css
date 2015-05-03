@@ -783,6 +783,7 @@ footer a:hover {
 .header-logo
 {
   width: 400px;
+  padding-left: 60%;
 }
 
 /* #Media Queries
