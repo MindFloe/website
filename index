@@ -64,11 +64,7 @@ $ git checkout gh-pages
         <aside id="sidebar">
           <a href="https://github.com/MindFloe/website/zipball/master" class="button">
             <small>Download</small>
-            .zip file
-          </a>
-          <a href="https://github.com/MindFloe/website/tarball/master" class="button">
-            <small>Download</small>
-            .tar.gz file
+            Prototype
           </a>
 
           <p class="repo-owner"><a href="https://github.com/MindFloe/website"></a> is maintained by <a href="https://github.com/MindFloe">MindFloe</a>.</p>
