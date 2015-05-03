@@ -922,6 +922,12 @@ footer a:hover {
   background-attachment: fixed;
 }
 
+#title-background3
+{
+  background: #2e7bcf url(../images/2015-04-08_00017.jpg) 0 0 repeat-x;
+  background-attachment: fixed;
+}
+
 .title-wrapper #main-content h3 
 {
   color: rgba(255, 255, 255, 0.8);
