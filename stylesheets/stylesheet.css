@@ -490,7 +490,7 @@ header h2 {
   margin: 0 auto;
 }
 
-#content-wrapper {
+.content-wrapper {
   padding-top: 30px;
   border-top: solid 1px #fff;
 }
@@ -886,6 +886,17 @@ footer a:hover {
     margin-left: 0;
     content: none;
   }
+}
+
+.title-wrapper
+{
+  padding-top: 40px;
+  padding-bottom: 40px;
+  font-family: 'Architects Daughter', 'Helvetica Neue', Helvetica, Arial, serif;
+  background: #2e7bcf url(../images/2015-04-08_00003.jpg) 0 0 repeat-x;
+  background-attachment: fixed;
+  background-position-y: -320px;
+  background-size: cover;
 }
 
 /* Mobile Landscape Size to Tablet Portrait (devices and browsers) */
